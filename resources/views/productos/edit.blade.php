@@ -9,7 +9,7 @@
     <div class="flex items-center justify-between">
         <div>
             <h2 class="text-lg font-bold text-slate-800">Modificar Producto</h2>
-            <p class="text-xs text-slate-500">Actualice precios, ingredientes o inventario del plato.</p>
+            <p class="text-xs text-slate-500">Actualice precios, especificaciones o stock del medicamento.</p>
         </div>
         <a href="{{ route('productos.index') }}" class="text-xs font-semibold text-slate-600 hover:text-slate-900 bg-white border border-slate-200 px-3 py-1.5 rounded-lg shadow-sm transition">
             <i class="fa-solid fa-arrow-left mr-1"></i> Volver a Productos

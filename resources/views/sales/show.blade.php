@@ -28,7 +28,7 @@
                     <div class="w-9 h-9 rounded-lg bg-gradient-to-tr from-orange-600 to-amber-500 flex items-center justify-center text-white shadow-md">
                         <i class="fa-solid fa-burger"></i>
                     </div>
-                    <span class="text-xl font-black text-slate-900 tracking-tight">QuickFood ERP</span>
+                    <span class="text-xl font-black text-slate-900 tracking-tight">Droguer�a Vida Sana</span>
                 </div>
                 <p class="text-xs text-slate-500">Sistema Integral de Gestión & Dark Kitchen</p>
                 <p class="text-xs text-slate-400">NIT: 900.123.456-7 · Régimen Común</p>
