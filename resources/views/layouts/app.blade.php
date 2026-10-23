@@ -142,6 +142,11 @@
                 <span class="text-[10px] bg-slate-800 text-emerald-400 px-2 py-0.5 rounded font-mono">PARCIAL 2</span>
             </div>
             <p class="text-[11px] text-slate-400 mt-0.5">Droguería Vida Sana &bull; Cartago</p>
+            <div class="mt-2 pt-2 border-t border-slate-800 text-[10px] text-slate-400 leading-tight">
+                <span class="font-bold text-slate-300 block mb-0.5">Estudiantes:</span>
+                <div>&bull; Miguel Ángel Ramírez G.</div>
+                <div>&bull; Andrés Felipe Mejía S.</div>
+            </div>
         </div>
     </aside>
 

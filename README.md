@@ -10,7 +10,10 @@
 **Giro del Negocio:** Venta minorista de medicamentos genéricos, éticos/comerciales, de control especial, productos OTC, dermocosmética y dispositivos médicos con servicio de dispensación regulada e inyectología bajo normativa del INVIMA y Ministerio de Salud y Protección Social (Resolución 1403 de 2007).  
 **Repositorio GitHub:** [https://github.com/MiguelAngelRamirezGutierrez/drogueria_vida_sana.git](https://github.com/MiguelAngelRamirezGutierrez/drogueria_vida_sana.git)  
 **Ramas de entrega:** `main` y `parcial2`  
-**Stack Tecnológico:** Laravel 11/12, PHP 8.3/8.4, MySQL 8.4, Docker Desktop (Laravel Sail), Eloquent ORM, Spatie Laravel Permission, Pest/PHPUnit.
+**Stack Tecnológico:** Laravel 11/12, PHP 8.3/8.4, MySQL 8.4, Docker Desktop (Laravel Sail), Eloquent ORM, Spatie Laravel Permission, Pest/PHPUnit.  
+**Estudiantes:**
+* **Miguel Ángel Ramírez Gutiérrez** &bull; [GitHub: @MiguelAngelRamirezGutierrez](https://github.com/MiguelAngelRamirezGutierrez)
+* **Andrés Felipe Mejía Suaza** &bull; [GitHub: @NiquelAwol](https://github.com/NiquelAwol)
 
 ---
 
@@ -248,4 +251,6 @@ drogueria_vida_sana/
 
 ---
 **Desarrollado para:** Corporación de Estudios Tecnológicos del Norte del Valle — COTECNOVA (2026)  
-**Estudiante:** Miguel Ángel Ramírez Gutiérrez
+**Estudiantes:**  
+* **Miguel Ángel Ramírez Gutiérrez** &bull; [GitHub: @MiguelAngelRamirezGutierrez](https://github.com/MiguelAngelRamirezGutierrez)  
+* **Andrés Felipe Mejía Suaza** &bull; [GitHub: @NiquelAwol](https://github.com/NiquelAwol)

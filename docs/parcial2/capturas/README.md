@@ -1,5 +1,6 @@
 # Evidencias de Ejecución — Segundo Parcial
-**Droguería Vida Sana · Cotecnova 2026**
+**Droguería Vida Sana · Cotecnova 2026**  
+**Estudiantes:** Miguel Ángel Ramírez Gutiérrez ([@MiguelAngelRamirezGutierrez](https://github.com/MiguelAngelRamirezGutierrez)) & Andrés Felipe Mejía Suaza ([@NiquelAwol](https://github.com/NiquelAwol))  
 
 En este directorio se encuentran las capturas gráficas y la transcripción de las pruebas exigidas en la sección **4. Implementación** del examen:
 

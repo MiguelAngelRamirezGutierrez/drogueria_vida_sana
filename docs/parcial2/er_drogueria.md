@@ -1,6 +1,7 @@
 # Diagrama Entidad - Relación (MER)
 **Droguería Vida Sana — Cartago (Valle del Cauca)**  
 *Segundo Parcial · Cotecnova 2026*  
+**Estudiantes:** Miguel Ángel Ramírez Gutiérrez ([@MiguelAngelRamirezGutierrez](https://github.com/MiguelAngelRamirezGutierrez)) & Andrés Felipe Mejía Suaza ([@NiquelAwol](https://github.com/NiquelAwol))  
 
 ```mermaid
 erDiagram

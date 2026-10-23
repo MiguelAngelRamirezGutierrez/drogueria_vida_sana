@@ -25,6 +25,14 @@
                 <p class="text-slate-300 text-sm max-w-3xl">
                     Gestión integral de compras, recepción técnica con cuarentena sanitaria, inventario multicanal y dispensación automatizada bajo el algoritmo <strong class="text-white">FEFO (First Expired, First Out)</strong>.
                 </p>
+                <div class="pt-1 flex flex-wrap items-center gap-3 text-xs text-emerald-200/90 font-medium">
+                    <span class="text-white font-bold flex items-center gap-1">
+                        <i class="fa-solid fa-user-graduate text-emerald-400"></i> Estudiantes:
+                    </span>
+                    <span>Miguel Ángel Ramírez Gutiérrez</span>
+                    <span class="text-slate-500">&bull;</span>
+                    <span>Andrés Felipe Mejía Suaza</span>
+                </div>
             </div>
 
             <!-- Accesos rápidos a Documentación y Consola -->

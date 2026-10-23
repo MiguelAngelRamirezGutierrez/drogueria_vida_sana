@@ -19,6 +19,7 @@
             <h2 class="text-2xl font-black text-white tracking-tight">Droguería Vida Sana</h2>
             <p class="text-xs text-emerald-400 font-semibold uppercase tracking-widest mt-0.5">Control de Acceso & Roles Spatie</p>
             <p class="text-xs text-slate-400 mt-1">COTECNOVA &bull; Segundo Parcial 2026: SGE y Trazabilidad FEFO</p>
+            <p class="text-[11px] text-slate-400 mt-0.5">Estudiantes: Miguel Ángel Ramírez G. &bull; Andrés Felipe Mejía S.</p>
         </div>
 
         <!-- Alertas -->

@@ -2,7 +2,9 @@
 **Seminario Desarrollo de Aplicaciones Web en Laravel con Enfoque RAD**  
 *Cotecnova 2026 · Segundo Parcial de Software de Gestión Empresarial*  
 **Empresa:** Droguería Vida Sana — Cartago (Valle del Cauca)  
-**Autor:** Miguel Ángel Ramírez Gutiérrez  
+**Estudiantes / Autores:**  
+* **Miguel Ángel Ramírez Gutiérrez** &bull; [GitHub: @MiguelAngelRamirezGutierrez](https://github.com/MiguelAngelRamirezGutierrez)  
+* **Andrés Felipe Mejía Suaza** &bull; [GitHub: @NiquelAwol](https://github.com/NiquelAwol)  
 
 ---
 
